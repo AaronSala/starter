@@ -1,5 +1,11 @@
-const Home=()=> {
-  return <h1>Home</h1>;
-}
+const Home = () => {
+  return (
+    <>
+      
+        <h1 className="header">Home</h1>
+     
+    </>
+  );
+};
 
 export default Home;

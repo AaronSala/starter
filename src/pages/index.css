@@ -1,0 +1,41 @@
+
+
+.nav {
+    background: #444;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+ .header {
+     color: green;
+ }
+
+ .container {
+     background: #444;
+     width: 50%;
+     height: 50vh;
+ }
+
+ .nav {
+     display: flex;
+     justify-content: flex-end;
+     background: #ddd;
+ }
+
+ .nav ul {
+     padding: 1rem;
+     display: flex;
+     list-style: none;
+     justify-content: center;
+ }
+
+ .nav ul li {
+     margin-left: 1rem;
+     list-style: none;
+ }
+
+ .nav ul li a {
+          text-decoration: none;
+     }
